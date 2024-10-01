@@ -1,0 +1,28 @@
+body {background-color: rgb(163, 126, 126);}
+
+h1 {text-align: center;
+font-style: italic;
+font-size: 40px;
+background-color: darkolivegreen ;}
+
+#vangogh {border-style: outset;
+margin-left: 20%;
+margin-right: 10%;
+border-width: 12px;
+}
+h3 {font-style: oblique;
+    font-size: 20px;
+    background-color: rgb(99, 84, 121);
+    border-style: dotted;
+}
+#girlwithaperlearing {border-style: outset;
+margin-left: 25%;
+margin-right: 10%;
+border-width: 12px;
+}
+h5 {
+    font-size: 20px;
+    background-color: rgb(226, 168, 93);
+    border-style: double;
+    font-style: inherit;
+}
