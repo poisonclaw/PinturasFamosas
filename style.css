@@ -28,5 +28,8 @@ h5 {
 }
 
     footer {font-size: 30px;
-        font-style: italic;}
+        font-style: italic;
+    border-style: dotted;
+border-color: dimgrey;
+}
         
